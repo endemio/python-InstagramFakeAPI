@@ -1,1 +1,1 @@
-https://github.com/endemic-ru/InstagramFakeAPI
+https://github.com/endemio/InstagramFakeAPI
