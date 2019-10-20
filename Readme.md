@@ -1,1 +1,1 @@
-https://github.com/endemio/InstagramFakeAPI
+https://github.com/endemio/python-InstagramFakeAPI
